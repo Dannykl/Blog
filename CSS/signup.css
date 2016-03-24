@@ -1,0 +1,77 @@
+/*login form*/
+#username,#password{margin-left:55px;margin-bottom: 3px;} /*this line applies to signup form too*/
+#heading{margin-left: 180px; margin-top: 70px;}
+#registerButton{margin-top: 0px;margin-left: 55px;}
+
+
+/*signup form*/
+#firstname{margin-left:48px;margin-bottom: 3px;}
+#lastname{margin-left:50px;margin-bottom: 3px;}
+#email{margin-left:90px;margin-bottom: 3px;}
+.password{margin-left: 4px;}
+#submit{margin-left: 60px;}
+#loginButton{margin-left: 60px;}
+
+
+/*header,footer and logout*/
+#header{font-size: 4em;text-align: center;}
+#footer{margin-left:10px;margin-top:20em;}
+#logout{margin-left:70em;}
+
+
+/*
+#name{margin-top:20px; margin-left:30px; margin-top: 50px;}
+.name{margin-left:60em;}
+.posts,#box{text-align: center;}*/
+
+/*profile page*/
+#title
+{
+	/*width:600px;height:3px;
+	padding:50px; border: 1px solid black;*/
+	margin-bottom: 10px;
+	margin-top: 10px;
+	font-size: 20px;
+	background-color: rgb(208,208,208);
+	text-align: left;
+}
+
+#feed
+{
+	background-color: rgb(159,159,106);
+}
+#blogger
+{
+	margin-top: 10px;
+	margin-bottom: 20px;
+	text-align: left;
+}
+#search
+{
+	margin-left:60em;
+}
+#updateBox
+{
+	text-align: center;
+	margin-top: 100px;
+}
+
+a:link{text-decoration: none;}
+/*new post box*/
+#box{text-align: center;}
+
+/*profile page*/
+/*.posts
+{
+	text-align: center;
+}*/
+/*
+delete page*/
+/*.deleteButton
+{
+	margin-top: 20px; margin-left: 100px;
+}
+.deleteForm
+{
+	display: inline-block;
+}*/

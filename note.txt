@@ -1,0 +1,5 @@
+???CHECK THE LOGIN PAGE WHEN THE USER ENTERS WRONG DETAILS
+
+-email confirmation
+-instant search while the user is typing
+-enables the user to post video,images and music
