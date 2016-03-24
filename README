@@ -1,0 +1,18 @@
+******Blog*******
+PHP, MySQL, HTML5 and CSS were used to produce this dBlog. 
+
+****Functionalities
+- Allows the users to sign up
+- Users details will be stored in MySQL database
+- log in to the system 
+- Enables to create blog
+- Enables to delete the blog
+
+
+
+****Requirments********
+-text editor eg Sublime(prefered)
+-Mysql database: phpmyadmin a free software can be used. 
+-PHP knowledge
+-HTML knowledge 
+-CSS knowledge
